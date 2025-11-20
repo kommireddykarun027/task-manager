@@ -1,0 +1,4 @@
+/* Minimal styles to start */
+body { font-family: Arial, sans-serif; margin: 0; padding: 16px; background:#f6f8fa; color:#0b1720; }
+header { display:flex; justify-content:space-between; align-items:center; margin-bottom:16px; }
+#tasks { background:#fff; padding:12px; border-radius:6px; min-height:100px; }
